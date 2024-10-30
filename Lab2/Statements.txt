@@ -1,0 +1,12 @@
+List of statements:
+
+-The system allow Office Manager /Dentist /Patient login
+-Office Manager can add Dentist and Patient to system.
+-The Patient can request an appointment with Dentist by calling/online form.
+-The Office Manager can see the request and book an appointment.
+-The system will notify the appointment for the Patient.
+-The Dentist can see their appointment and surgeon information.
+-The Patient can see their appointment
+-The Patient can request to cancel or change their appointment.
+-The Dentist can not be given more than 5 appointment per week.
+-The Patient is prevented from requesting an appointment if they have an outstanding, unpaid bill for dental service.
