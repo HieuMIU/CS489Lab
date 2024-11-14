@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>edu.miu.cs.cs489.lesson7</groupId>
-    <artifactId>citylibrarywebapi</artifactId>
+    <artifactId>adswebapi</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>citylibrarywebapi</name>
     <description>citylibrarywebapi</description>
